@@ -1,1 +1,1 @@
-Test Cases for Login functionality
+Test Cases for Login functionality only
